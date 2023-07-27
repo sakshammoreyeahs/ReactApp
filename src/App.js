@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <h1>Hello, This is my First React App.</h1>
+      <h1>Hello, This is my Second React App.</h1>
     </div>
   );
 }
